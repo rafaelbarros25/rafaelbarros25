@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**rafaelbarros25/rafaelbarros25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My personal repository 😀 This is my Readme file.
 
-Here are some ideas to get you started:
+I am currently focusing on completing the HyperDev Data Science Bootcamp!!!!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
