@@ -15,6 +15,16 @@ Solid background in Financial, Education and Customer Service that have provided
 - - 😄 Pronouns: he/him
 
 
+🤹 TECHNICAL SKILLS: Pytho, Pandas, NumPy, Microsoft Office, SQL 
+
+🧑‍💻 SOFT SKILLS: Collaboration, Problem Solving, Analytical Skills, Communication, Accountability, Adaptability
+
+ 
+
+ 
+
+ 
+
 
 
  
